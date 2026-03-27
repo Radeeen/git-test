@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+{{-- <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -16,4 +16,4 @@
     <h3>Owner : {{ $nama }}</h3>
 <img src="img/test.png" alt=""width="100">
 </body>
-</html>
+</html> --}}
