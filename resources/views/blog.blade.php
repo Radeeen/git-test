@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+{{-- <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -15,4 +15,4 @@
     <h1>R Herick Fauzi Komara Kusumah</h1>
     <h2>Seorang pria dengan mimpi yang besar</h2>
 </body>
-</html>
+</html> --}}
