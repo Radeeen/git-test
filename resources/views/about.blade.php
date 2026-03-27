@@ -12,7 +12,7 @@
     <a href="/about">About</a>
     <a href="/blog">Blog</a>
     <a href="/contact">Contact</a>
-    <h1>Halaman About</h1>
+    <h1>Halaman-halaman</h1>
     <h3>Owner : {{ $nama }}</h3>
 <img src="img/test.png" alt=""width="100">
 </body>
